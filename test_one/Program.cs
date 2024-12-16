@@ -6,6 +6,7 @@ Console.WriteLine("Rezultatot od odzemanjeto e:" + Odzemanje(one, two));
 Console.WriteLine("Rezultatot od mnozenjeto e:" + Mnozenje(one, two));
 Console.WriteLine("Zbirot na dvata br e:" + Zbir(one, two));
 Console.WriteLine("Kolicnikot na broevite e: " + Delenje(one, two));
+Console.WriteLine('DAne')
 static double Delenje(double p, double l)
 {
     double kolicnik = p / l;
