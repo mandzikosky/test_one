@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mandz\\source\\repos\\test_one\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E6805C-3C35-4E80-A7DE-832EE34F27FA}|test_one\\test_one.csproj|c:\\users\\mandz\\source\\repos\\test_one\\test_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E6805C-3C35-4E80-A7DE-832EE34F27FA}|test_one\\test_one.csproj|solutionrelative:test_one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mandz\\source\\repos\\test_one\\test_one\\Program.cs",
+              "RelativeDocumentMoniker": "test_one\\Program.cs",
+              "ToolTip": "C:\\Users\\mandz\\source\\repos\\test_one\\test_one\\Program.cs",
+              "RelativeToolTip": "test_one\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:57:03.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
